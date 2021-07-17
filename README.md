@@ -1,7 +1,7 @@
 # Assignment-1 
 Web Development-HTML &amp; CSS - 
 Studied @ Univeristy West Sweden - 
-Arthur @ JohnnyDev_ -
+Arthur @ JohnnyDev_ 
 
 Create a documentation page - HTML 
 Create a Cascade Style Sheet - CSS 
